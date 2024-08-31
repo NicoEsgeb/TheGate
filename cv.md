@@ -7,7 +7,7 @@ permalink: /cv/
 # Curriculum Vitae
 
 ## Download My CV
-[Download PDF](assets/documents/CV_NicoEsgeb.pdf)
+[Download PDF](assets/documents/cvnicoesgeb.pdf)
 
 ## Skills
 - **Programming Languages:** C, Java, Python
