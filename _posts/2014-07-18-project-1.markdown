@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2022-08-01
+img: steel.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2022
+client: Nicolas Esgeb
+category: Android Application - Music Game
+title: Steel Tongue Drum App  # Add a custom title here
+description: Steel Tongue Drum - My first Android Application. This is a real instrument I have, it weitghs aroung 8 kg. I created a digital version of it because I was moving abroad and it was impossible for me to travel with it. This was my way of doing it.
 ---
