@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2024-09-15
 img: bonfire.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Nicolas Esgeb
+category: Study Application
 description: Bonfire Particle Simulator. Started as a way of playing with particles. Ended up being an app for chill music and animations. It helps me study with its to do list and timer. I added background music and ambience sounds.
+video: /assets/videos/bonfireVideo2.mp4
 ---
